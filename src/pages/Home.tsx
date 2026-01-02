@@ -46,7 +46,7 @@ const Home = () => {
 
                             {/* Main Heading */}
                             <h1 className="text-6xl md:text-8xl font-display font-bold gradient-text mb-6">
-                                Hello Emmanella
+                                Hello Emmanuella
                             </h1>
 
                             <motion.div
