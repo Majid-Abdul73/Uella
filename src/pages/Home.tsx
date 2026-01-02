@@ -10,8 +10,10 @@ const Home = () => {
     const images = [
         { id: 1, src: '/img1.jpeg', alt: 'Beautiful friendship moment', caption: 'Celebrating our friendship' },
         { id: 2, src: '/img2.jpeg', alt: 'Joyful moments together', caption: 'Moments of joy' },
-        { id: 3, src: '/img1.jpeg', alt: 'Ghanaian culture', caption: 'Proud Ghanaian heritage' },
-        { id: 4, src: '/img2.jpeg', alt: 'Inspirational scene', caption: 'Dream big, shine bright' },
+        { id: 3, src: '/img3.png', alt: 'Ghanaian culture', caption: 'Proud heritage' },
+        { id: 4, src: '/img1.jpeg', alt: 'Inspirational scene', caption: 'Dream big' },
+        { id: 5, src: '/img2.jpeg', alt: 'Inspirational scene', caption: 'Sine bright' },
+
     ];
 
     return (
