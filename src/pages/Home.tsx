@@ -12,8 +12,6 @@ const Home = () => {
         { id: 2, src: '/img2.jpeg', alt: 'Joyful moments together', caption: 'Moments of joy' },
         { id: 3, src: '/img1.jpeg', alt: 'Ghanaian culture', caption: 'Proud Ghanaian heritage' },
         { id: 4, src: '/img2.jpeg', alt: 'Inspirational scene', caption: 'Dream big, shine bright' },
-        // { id: 5, src: '/img1.jpeg', alt: 'Friendship celebration', caption: 'True friendship' },
-        // { id: 6, src: '/img2.jpeg', alt: 'Ghana pride', caption: 'Ghana, our beautiful home' },
     ];
 
     return (
@@ -112,7 +110,7 @@ const Home = () => {
                                 </p>
 
                                 <p>
-                                    This website is my way of saying thank you - thank you for being you, for bringing
+                                    This site is my way of saying thank you - thank you for being you, for bringing
                                     light into my life, and for showing me that true friendship can blossom in the most
                                     unexpected moments.
                                 </p>

@@ -21,7 +21,7 @@ const MusicPlayer = () => {
         <div className="relative z-50">
             <audio
                 ref={audioRef}
-                src="/images/No-More.mp3"
+                src="/No-More.mp3"
                 loop
             />
 
