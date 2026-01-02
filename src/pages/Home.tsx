@@ -101,7 +101,7 @@ const Home = () => {
 
                             <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
                                 <p>
-                                    Yesterday was a day I'll always remember - the day I met you, Emmanella.
+                                    Yesterday was a day I'll always remember - the day I met you, Emmanuella.
                                     What started as a simple conversation turned into something truly special.
                                 </p>
 
@@ -121,7 +121,7 @@ const Home = () => {
                                     <p className="text-2xl font-display italic text-primary-600">
                                         "Some people make the world more special just by being in it."
                                     </p>
-                                    <p className="text-lg text-gray-600 mt-2">And you, Emmanella, are one of those people.</p>
+                                    <p className="text-lg text-gray-600 mt-2">And you, Emmanuella, are one of those people.</p>
                                 </div>
                             </div>
                         </div>
