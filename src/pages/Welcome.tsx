@@ -30,7 +30,7 @@ const Welcome = () => {
         };
 
         // Check credentials (case insensitive)
-        const isCorrect = name.toLowerCase().trim().includes('emmanella');
+        const isCorrect = name.toLowerCase().trim().includes('emmanuella');
 
         if (isCorrect) {
             newAttempt.success = true;
